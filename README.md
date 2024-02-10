@@ -1,33 +1,43 @@
 # Python-DataStructure
 
-### Array
+<br>
 
-### Linked List
+## Linear
 
-### Stack
+#### Array
 
-### Queue
+#### Linked List
 
-### Hash Table
+#### Stack
 
-### Tree
+#### Queue
 
-### Binary Tree
+#### Hash Table
 
-### BST
+<br>
+<br>
+<br>
 
-### Trie
+## Non Linear
 
-### Graph
+#### Tree
 
-### Graph Representation
+#### Binary Tree
 
-### Non weighted Graph
+#### BST
 
-### weighted Graph
+#### Trie
 
-### Graph Path
+#### Graph
 
-### BFS
+#### Graph Representation
 
-### DFS
+#### Non weighted Graph
+
+#### weighted Graph
+
+#### Graph Path
+
+#### BFS
+
+#### DFS
